@@ -1,3 +1,9 @@
+# dont's check in jetbrains stuff
+.idea/
+
+# don't check in recipe DB
+RAW_recipes.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
